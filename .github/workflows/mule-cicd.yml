@@ -16,7 +16,7 @@ on:
       appName:
         description: "Application Name for deployment"
         required: true
-        default: "cc-cicd-v1-dev"
+        default: "cc-cicd-2-dev"
 
       replicas:
         description: "Number of replicas"
